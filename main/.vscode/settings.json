@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "duplex_serial.h": "c"
+    }
+}
